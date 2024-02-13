@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tia2905
 - 👀 I’m interested in robotic and coding 
-- 🌱 I’m currently learning java and I know languages such as python
+- 🌱 I’m currently learning java and I know languages such as python,html,css
 - 💞️ I’m looking to collaborate on projects related to machine learning concepts 
 - 📫 How to reach me https://www.linkedin.com/in/tiya-sur-1346352a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns: she/her 
